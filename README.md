@@ -6,9 +6,8 @@
  - angular-cli (global)
  - nodejs
 
-Run `yarn` (yarn must be installed) to download and install libraries, then `$(npm bin)/ivy-ngc` and `ngc serve --aot` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `yarn` (yarn must be installed) to download and install libraries, then `$(npm bin)/ivy-ngc` and `ngc serve --aot` for a dev server. Navigate to `http://localhost:4200/`. 
 
-Angular test:
 # Context
 Our fantastic product owner has a wonderful, amazing and revolutionary idea... he wants to build a new Todo
 application.
