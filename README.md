@@ -1,6 +1,12 @@
 # Todo Overkill
 
-Run `$(npm bin)/ivy-ngc` and `ngc serve --aot` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Pre-requisites
+
+ - yarn 
+ - angular-cli (global)
+ - nodejs
+
+Run `yarn` (yarn must be installed) to download and install libraries, then `$(npm bin)/ivy-ngc` and `ngc serve --aot` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Angular test:
 # Context
