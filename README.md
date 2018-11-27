@@ -2,7 +2,7 @@
 
 ### Pre-requisites
 
- - yarn 
+ - yarn (this project was built with an angular-cli preconfigured to use yarn, so yarn is prefered)
  - angular-cli (global)
  - nodejs
 
